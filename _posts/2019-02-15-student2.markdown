@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Student 2"
+date:   2019-02-15 16:09:29 -0500
+categories: projects
+---
+some student work here in a template
